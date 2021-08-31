@@ -14,8 +14,6 @@ public class Main {
                 {0,0,0,     0,9,0,      4,0,0,},
         };
 
-
-
-        new ShuDu(array);
+        GUI.solve(array);
     }
 }
