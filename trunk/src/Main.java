@@ -14,6 +14,6 @@ public class Main {
                 {0,0,0,     0,9,0,      4,0,0,},
         };
 
-        GUI.solve(array);
+        Func.solve(array);
     }
 }
